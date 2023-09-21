@@ -1,1 +1,1 @@
-console.log('Hello world');
+document.write("This is a JS code");
